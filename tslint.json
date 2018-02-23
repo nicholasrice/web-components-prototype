@@ -1,0 +1,3 @@
+{
+    "extends": "@microsoft/fast-tslint-rules"
+}
