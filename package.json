@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@microsoft/fast-react-jss-manager": "file:../../fast-react-jss-manager",
     "@microsoft/fast-tslint-rules": "^1.0.4",
     "@polymer/polymer": "^3.0.0-pre.9",
     "@types/react": "^16.0.38",
